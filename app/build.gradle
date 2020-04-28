@@ -38,6 +38,4 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:29.0.3'
     //CROP IMAGE
     implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
-    //CIRCULAR IMAGE
-    implementation 'de.hdodenhof:circleimageview:1.2.1'
 }
